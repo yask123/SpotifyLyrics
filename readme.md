@@ -19,7 +19,13 @@ Menu bar appears at the top of the screen and looks like this:
 
 ### Installation
 
+#### From source 
 1. Clone the repo 
 2. Run `pip install -r requirements.txt`
 3. Run `python spotify_lyrics.py`
 4. SpotifyLyrics will appear on your menu bar now.
+
+#### From pypi [WIP]
+ `$ pip install spotifylyrics`
+
+  
