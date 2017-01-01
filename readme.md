@@ -33,7 +33,8 @@ Menu bar appears at the top of the screen and looks like this:
 
   
   
-  ## The MIT License
+
+## The MIT License
 > Copyright (c) 2017 Yask Srivastava http://iyask.me
 
 > Permission is hereby granted, free of charge, to any person obtaining a copy
