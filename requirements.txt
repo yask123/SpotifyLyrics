@@ -1,0 +1,4 @@
+rumps
+bs4
+requests
+pyobjc
