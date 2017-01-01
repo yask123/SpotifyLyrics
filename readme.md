@@ -36,8 +36,8 @@ alt="Demo" width="240" height="180" border="10" /></a>
 
  `$ pip install spotifylyrics`
 
-  
-  
+
+> Supports on OSX
 
 ## The MIT License
 > Copyright (c) 2017 Yask Srivastava http://iyask.me
