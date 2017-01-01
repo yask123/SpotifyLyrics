@@ -26,6 +26,7 @@ Menu bar appears at the top of the screen and looks like this:
 4. SpotifyLyrics will appear on your menu bar now.
 
 #### From pypi [WIP]
+(Don't install via this method, to be fixed soon)
  `$ pip install spotifylyrics`
 
   
