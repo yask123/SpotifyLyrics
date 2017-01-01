@@ -29,7 +29,7 @@ def get_lyrics(song_name):
 	except:
 		return 'Coundnt find lyrics for this song:( '
 def get_current_song_playing():
-	return os.popen('osascript current_song_name_as.AppleScript').read()
+	return os.popen('osascript utils/current_song_name_as.AppleScript').read()
 
 
 get_lyrics(get_current_song_playing())
