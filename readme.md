@@ -1,5 +1,5 @@
 # Spotify Lyrics 
-Beta
+#######Beta
 
 
 View lyrics of current playing song on Spotify.
