@@ -15,7 +15,7 @@ Menu bar appears at the top of the screen and looks like this:
 
 <img src = "http://i.imgur.com/V9VpNoa.png" />
 
-### Vide demo
+### Video demo
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gwPCSeZ4SR4
 " target="_blank"><img src="http://img.youtube.com/vi/gwPCSeZ4SR4/0.jpg" 
