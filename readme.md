@@ -1,6 +1,4 @@
-# Spotify Lyrics
-
-Beta
+# Spotify Lyrics <small> Beta </small>
 
 
 View lyrics of current playing song on Spotify.
