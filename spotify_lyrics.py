@@ -16,4 +16,3 @@ class SpotifyLyrics(rumps.App):
 print lyrics.get_lyrics(lyrics.get_current_song_playing())
 if __name__ == "__main__":
     SpotifyLyrics().run()
-    print  get_lyrics(get_current_song_playing()) , 'sdsf'
