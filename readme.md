@@ -15,6 +15,9 @@ Menu bar appears at the top of the screen and looks like this:
 
 <img src = "http://i.imgur.com/V9VpNoa.png" />
 
+
+<img src = "http://imgur.com/988ddd65-4451-421c-a4b0-7adcbbb79cef" />
+
 ### Video demo
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=gwPCSeZ4SR4
